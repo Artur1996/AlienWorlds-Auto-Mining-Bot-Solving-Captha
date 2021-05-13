@@ -40,4 +40,4 @@ headless = True
 
 
 
-MAIN_ACCOUNT = 'mlxtk.wam' # a smart contract account for the bot. Do not change.
+MAIN_ACCOUNT = 'your wax wallet' # a smart contract account for the bot. Do not change. ti eblan
